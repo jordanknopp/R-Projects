@@ -34,7 +34,7 @@ kcenter<-function(data)
 # function "myplclust" for colored-leaf dendrograms
 myplclust <- function( hclust, lab.col, hang=0.1, ... )
 {
-  ## modifiction of plclust for plotting hclust objects *in colour*!
+  ## modification of plclust for plotting hclust objects *in colour*!
   ## Copyright Eva KF Chan 2009
   ## Arguments:
   ## hclust: hclust object
